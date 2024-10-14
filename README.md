@@ -45,9 +45,9 @@ That's it - your keys are set up for use in the example notebooks.
 
 If you run into any trouble working with these materials, have some questions about the content, or want to give general feedback, feel free to go through one of these channels to get in touch with us:
 
-- [Open a new issue](https://github.com/Dartmouth-Libraries/ai-project-showcase/issues)
+- [Open a new issue](https://github.com/Dartmouth-Libraries/ai-advanced-applications/issues)
 - [Send an email](mailto:simon.stone@dartmouth.edu)
-- [Book an appointment](https://dartgo.org/meetwithsimon) (Dartmouth-members only)
+- [Book an appointment](https://dartgo.org/simon) (Dartmouth-members only)
 
 ## Licensing
 
