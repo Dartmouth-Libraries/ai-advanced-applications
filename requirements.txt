@@ -1,0 +1,6 @@
+langchain_dartmouth
+langchain_openai
+langchain_community
+wikipedia
+youtube-transcript-api
+pytube
